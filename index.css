@@ -1,0 +1,13 @@
+
+  body {background-color: lightblue;
+}
+
+
+table
+{
+border-collapse: collapse; /* Los bordes de la tabla aparecen juntos */
+}
+td
+{
+border: 1px solid black;
+}
